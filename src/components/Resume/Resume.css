@@ -1,0 +1,19 @@
+#resume {
+    padding: 20px;
+  }
+  
+  #resume a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #6200ea;
+    color: #ffffff;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  #resume a:hover {
+    background-color: #3700b3;
+  }
+  
